@@ -3,8 +3,8 @@ Jest testing practise with simple functions and simple tests.
 
 ## Built With
 
-  Javascript
-  Jest
+  -Javascript
+  -Jest
 
 ## Setup
 
