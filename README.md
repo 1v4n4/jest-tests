@@ -8,7 +8,7 @@ Jest testing practise with simple functions and simple tests.
 
 ## Setup
 
-  Get the link to the repository.
+  Get the link to the 'jest-tests' repository.
   Clone it as `git clone https://github.com/1v4n4/jest-tests.git`.
   Install  dependencies with `npm install`.
   Install Jest with `npm install --save-dev jest`.
